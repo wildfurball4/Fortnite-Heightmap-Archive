@@ -3,7 +3,7 @@ An Archive Of Heightmaps And Layer Info From Fortnite
 
 **Athena Terrain:**
 
->Location: X:_-153000.0_ Y:_153000.0_ Z:_-1692_
+>Location: X: _-153000.0_ Y: _153000.0_ Z: _-1692_
 
 >Scale X: Y: Z:
 
