@@ -11,22 +11,22 @@ An Archive Of Heightmaps And Layer Info From Fortnite
 
 >Location: X: Y: Z:
 
->Scale X: Y: Z:
+>Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Artemis Terrain:**
 
 >Location: X: Y: Z:
 
->Scale X: Y: Z:
+>Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Asteria Terrain:**
 
 >Location: X: Y: Z:
 
->Scale X: Y: Z:
+>Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Heilos Terrain:**
 
 >Location: X: Y: Z:
 
->Scale X: Y: Z:
+>Scale **X:** _128_ **Y:** _128_ **Z:** _100_
