@@ -5,7 +5,7 @@ An Archive Of Heightmaps And Layer Info From Fortnite
 
 >Location: X: _-153000.0_ Y: _153000.0_ Z: _-1692_
 
->Scale X: Y: Z:
+>Scale X: _200.7874_ Y: _200.7874_ Z: _50_
 
 **Apollo Terrain:**
 
