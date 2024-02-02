@@ -10,25 +10,25 @@ An Archive Of Heightmaps And Layer Info From Fortnite
 
 **Apollo Terrain:**
 
->Location: X: Y: Z:
+>Location: **X:** _-130048.0_ **Y:** _-130048.0_ **Z:** _100_
 
 >Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Artemis Terrain:**
 
->Location: X: Y: Z:
+>Location: **X:** _-130048.0_ **Y:** _-130048.0_ **Z:** _100_
 
 >Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Asteria Terrain:**
 
->Location: X: Y: Z:
+>Location: **X:** _-130048.0_ **Y:** _-130048.0_ **Z:** _0_
 
 >Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
 **Heilos Terrain:**
 
->Location: X: Y: Z:
+>Location: **X:** _-130048.0_ **Y:** _-130048.0_ **Z:** _0_
 
 >Scale **X:** _128_ **Y:** _128_ **Z:** _100_
 
