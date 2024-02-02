@@ -31,3 +31,5 @@ An Archive Of Heightmaps And Layer Info From Fortnite
 >Location: X: Y: Z:
 
 >Scale **X:** _128_ **Y:** _128_ **Z:** _100_
+
+## Special Maps
